@@ -12,7 +12,7 @@ A continuación, se detalla la organización de los archivos dentro de este repo
 
 ├── esquema_bbdd.png # Diagrama Entidad-Relación (ER) exportado desde DBeaver.
 ├── consultas_resueltas.sql # Script SQL con los enunciados y las consultas ejecutables.
-└── README.md # Descripción, metodología y conclusiones del proyecto.
+├── README.md # Descripción, metodología y conclusiones del proyecto.
 
 ## 🛠 3. Instalación y Requisitos
 
@@ -43,5 +43,5 @@ Las contribuciones son totalmente bienvenidas. Si encuentras una forma más opti
 
 ## 👤 7. Autores
 
-- **Zhaklina Dobromirova Karailieva ** - [zhaklinaa](https://github.com/zhaklinaa)
+- **Zhaklina Dobromirova Karailieva** - [zhaklinaa](https://github.com/zhaklinaa)
 - _Proyecto formativo de SQL Avanzado._
