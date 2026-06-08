@@ -10,9 +10,15 @@ Este proyecto consiste en resolver una serie de preguntas de negocio propuestas 
 
 A continuación, se detalla la organización de los archivos dentro de este repositorio para facilitar la navegación:
 
-├── esquema_bbdd.png # Diagrama Entidad-Relación (ER) exportado desde DBeaver.
-├── consultas_resueltas.sql # Script SQL con los enunciados y las consultas ejecutables.
-├── README.md # Descripción, metodología y conclusiones del proyecto.
+## 🗂 2. Estructura del Proyecto
+
+A continuación, se detalla la organización de los archivos dentro de este repositorio para facilitar la navegación:
+
+```text
+├── esquema_bbdd.png         # Diagrama Entidad-Relación (ER) exportado desde DBeaver.
+├── consultas_resueltas.sql  # Script SQL con los enunciados y las consultas ejecutables.
+└── README.md                # Descripción, metodología y conclusiones del proyecto.
+
 
 ## 🛠 3. Instalación y Requisitos
 
@@ -45,3 +51,4 @@ Las contribuciones son totalmente bienvenidas. Si encuentras una forma más opti
 
 - **Zhaklina Dobromirova Karailieva** - [zhaklinaa](https://github.com/zhaklinaa)
 - _Proyecto formativo de SQL Avanzado._
+```
