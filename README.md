@@ -10,10 +10,6 @@ Este proyecto consiste en resolver una serie de preguntas de negocio propuestas 
 
 A continuación, se detalla la organización de los archivos dentro de este repositorio para facilitar la navegación:
 
-## 🗂 2. Estructura del Proyecto
-
-A continuación, se detalla la organización de los archivos dentro de este repositorio para facilitar la navegación:
-
 ```text
 ├── esquema_bbdd.png         # Diagrama Entidad-Relación (ER) exportado desde DBeaver.
 ├── consultas_resueltas.sql  # Script SQL con los enunciados y las consultas ejecutables.
